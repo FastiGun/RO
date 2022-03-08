@@ -215,7 +215,7 @@ void algorithmeGlouton(cel* L) {
 int main(int argc, char* argv[]) {
 
 	//inputInstance(argv[1]);
-	inputInstance("inst35obj.txt"); //argument du programme : nom du fichier de l'instance
+	inputInstance("inst4obj.txt"); //argument du programme : nom du fichier de l'instance
 
 	//printf("\nListe initiale");
 	//affichListObj(LIST);
